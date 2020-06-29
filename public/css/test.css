@@ -1,0 +1,19 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    text-align: center;
+}
+
+button {
+    border-radius: 30px;
+    padding: 10px 20px;
+    color: #FFF;
+    background-color: #d35400;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #000;
+}
